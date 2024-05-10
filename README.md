@@ -1,5 +1,5 @@
 - 👋 Oi, Meu nome é Wesley Assis Ferrira Sousa de Oliveira 
-- 👀 Estou interessado em Python, JavaScript, html e css
+- 👀 Estou interessado em Python, JavaScript, HTML e CSS
 - 🌱 Atualmente estou aprendendo Python.
 - 💞️ Procuro colaborar em empresas e sites
 - 📫 Para falar comigo: wesleyassis2002@gmail.com
